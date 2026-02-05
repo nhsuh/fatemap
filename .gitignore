@@ -1,0 +1,20 @@
+# --- Biological Data (Crucial) ---
+data/
+*.h5ad
+*.csv
+*.loom
+*.h5
+
+# --- Python & OS Junk ---
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# --- Virtual Environments ---
+venv/
+env/
+.env
+
+# --- IDE Settings ---
+.vscode/
+.idea/
